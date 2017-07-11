@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246127135917",
+    "firebase_url": "https://sitbazar-83b2d.firebaseio.com",
+    "project_id": "sitbazar-83b2d",
+    "storage_bucket": "sitbazar-83b2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246127135917:android:f85bccba7bf1b653",
+        "android_client_info": {
+          "package_name": "com.example.pranay.sitbazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246127135917-ruqkh64ne92jc9d7ql8092siosum5a95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pranay.sitbazar",
+            "certificate_hash": "08992287c4ae4070921f5e2fc6eb1bb7563b6cd3"
+          }
+        },
+        {
+          "client_id": "246127135917-69q295kjpngt1fn6rqulthv6saomthm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcRyWTny5VvctZjiwE_xNe3viqB8JEKiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246127135917-69q295kjpngt1fn6rqulthv6saomthm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
